@@ -20,4 +20,6 @@ I used the browser's inbuilt local storage in order to save the player's data. I
 10) the key doesn't matter, I used the player's name
 11) the value should be a JSON object formatted like {"name":"PLAYER'S NAME", "icon":"/icons/ICON'S NAME", "curentDeaths":0, "totalDeaths":0, "currentTK":0, "totalTK":0}
 
+Note: the player's name should be all lowercase for this to work.
+
 After adding player's it should be fully functional. You can add as many potential players (stored in the local storage) as can fit on the page. Drag and drop the players onto the grey pads and hit the plus/minus to add team kills or deaths. I may include a video of that too, who knows.
